@@ -4,6 +4,7 @@
         <?php require_once './assets/php/common.php'?>
     </head>
     <body>
+    /* minh test commit */
         <header class="only-pc">
             <div class="responsive">
                 <div class="menu">
