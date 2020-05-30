@@ -4,7 +4,7 @@
         <?php require_once './assets/php/common.php'?>
     </head>
     <body>
-    /* minh test commit */
+        /* minh test commit */
         <header class="only-pc">
             <div class="responsive">
                 <div class="menu">
@@ -237,10 +237,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -278,10 +278,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -319,10 +319,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -360,10 +360,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -401,10 +401,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -442,10 +442,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -483,10 +483,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -524,10 +524,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -565,10 +565,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -613,10 +613,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -654,10 +654,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -695,10 +695,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -736,10 +736,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -777,10 +777,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -818,10 +818,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -859,10 +859,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -900,10 +900,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -941,10 +941,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -989,10 +989,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1030,10 +1030,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1071,10 +1071,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1112,10 +1112,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1153,10 +1153,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1194,10 +1194,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1235,10 +1235,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1276,10 +1276,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1317,10 +1317,10 @@
                                             </div>
                                             <div class="mask">
                                                 <a href="#"></a>
-                                                <div>
-                                                    <a class="addtocartBtn" href="">Add to cart</a>
-                                                    <i class="fas fa-heart cus_heartIco"></i>
-                                                </div>
+                                            </div>
+                                            <div class="addcart">
+                                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1378,7 +1378,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1414,7 +1419,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1450,7 +1460,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1486,7 +1501,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1522,7 +1542,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1558,7 +1583,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1594,7 +1624,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1630,7 +1665,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1666,7 +1706,12 @@
                                     <span class="price_course_old">10.99 $</span>
                                 </div>
                             </div>
-                            <div class="course-card--btn">
+                            <div class="mask">
+                                <a href="#"></a>
+                            </div>
+                            <div class="addcart">
+                                <a class="addtocartBtn" class="addtocartBtn" href="">Add to cart</a>
+                                <a href=""><i class="fas fa-heart cus_heartIco cus_heartIco"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1882,7 +1927,7 @@
             <p class="footer-bottom__content">Bản quyền &copy; 2020 Udemy. Đã đăng kí bản quyền</p>
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+        <script type="text/javascript" src="./assets/js/slick.min.js"></script>
         <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
         <script src="./assets/js/script.js"></script>
     </body>

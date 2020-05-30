@@ -459,12 +459,21 @@ header{
     margin-right: 10px;
     border-radius: 4px;
 }
+.course-card{
+    position: relative;
+}
+.course-card:focus{
+    outline: none;
+}
 .tabs__content .course-design .course-card--content-tittle, .tabs__content .course-photography .course-card--content-tittle{
     color: #29303b;
     font-weight: 600;
     height: 42px;
     overflow: hidden;
     margin-bottom: 6px;
+}
+.tabs__content .course-design .course-card--content-tittle:hover{
+    cursor: pointer;
 }
 .tabs__content .course-design .course-card--content-description, .tabs__content .course-photography .course-card--content-description{
     font-size: 12px;
@@ -499,9 +508,9 @@ header{
 .tabs__content .flickity-page-dots{
     display: none;
 }
-.tabs__content .mask{
+.tabs__content .mask, .course_trending .mask{
     width: 100%;
-    height: 100%;
+    height: 53%;
     background-color: rgba(41, 47 ,54, 0.5);
     position: absolute;
     top: 0;
@@ -510,31 +519,51 @@ header{
     visibility: hidden;
     transition: opacity 0.5s, visibility 0.5s;
 }
-.tabs__content .mask .addtocartBtn{
-    padding: 7px;
-    background-color: #ff859a;
+.tabs__content .addcart, .course_trending .addcart{
+    background-color: #ffffff;
+    display: flex;
+    width: 100%;
     border-radius: 4px;
-    width: 60%;
-    font-size: 14px;
     position: absolute;
-    bottom: 0;
-    left: 14px;
-    margin: 10px;
+    bottom: -35px;
     text-align: center;
     opacity: 1;
 }
-.tabs__content .mask .cus_heartIco{
+.tabs__content .addcart:focus,.course_trending .addcart:focus{
+    outline: none;
+}
+.tabs__content .addcart a:focus, .course_trending .addcart a:focus{
+    outline: none;
+}
+.tabs__content .addcart .addtocartBtn, .course_trending .addcart .addtocartBtn{
+    padding: 7px;
+    margin-left: 7px;
+    width: 70%;
+    font-size: 14px;
+    background-color:#ec5252;
+    border-radius: 5px;
+    color:#fff;
+}
+.tabs__content .addcart .cus_heartIco, .course_trending .addcart .cus_heartIco{
     font-size: 20px;
-    color: #f1f1f1;
+    color: #ec5252;
     position: absolute;
-    bottom: 0;
-    right: 13px;
+    right: 0;
+    top:-9px;
     padding: 10px;
     margin: 7px;
 }
-.categories .tabs__content .course-card:hover .mask{
+.tabs__content .course-card:hover .addcart, .course_trending .course-card:hover .addcart{
+    bottom: 0;
+    transition: all .2s ease-in-out;
+}
+.tabs__content .addcart .cus_heartIco:hover, .course_trending .addcart .cus_heartIco:hover{
+    cursor: pointer;
+}
+.carousel-cell .course-card:hover .mask{
     opacity: 1;
     visibility: visible;
+    cursor: pointer;
 }
   /* course top trending */
 .topcategories-headline .headline__tittle-text{
@@ -575,7 +604,9 @@ header{
     color: #686f7a;
     overflow: hidden;
 }
-
+.course-card--content-tittle:hover{
+    cursor: pointer;
+}
 .stars {
     cursor: pointer;
     display: flex;
@@ -756,4 +787,38 @@ footer{
 .footer-bottom__content{
     color: #e26d6d;
     text-transform: capitalize; 
+}
+/* slick css */
+button.slick-prev.slick-arrow{
+    position: absolute;
+    top: 39%;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    border: none;
+    border-radius: 50%;
+}
+button.slick-prev.slick-arrow:focus{
+    outline: none;
+    opacity: .7;
+}
+button.slick-prev.slick-arrow:hover{
+   cursor: pointer;
+}
+button.slick-next.slick-arrow{
+    position: absolute;
+    top: 39%;
+    right: 0;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    border: none;
+    border-radius: 50%;
+}
+button.slick-next.slick-arrow:focus{
+    opacity:.7;
+    outline: none ;
+}
+button.slick-next.slick-arrow:hover{
+    cursor: pointer;
 }
